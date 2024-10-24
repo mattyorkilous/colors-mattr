@@ -3,8 +3,6 @@ pacman::p_load(
   stringr, shinyjs, shinyFeedback, rclipboard
 )
 
-rm(list = ls())
-
 # ------------------------------------------------------------------------------
 
 main <- function() {
